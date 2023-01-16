@@ -10,8 +10,6 @@ public class Main {
             int bonus = amount / 100;
             System.out.println(" Сумма счёта: " + (clientAccount + amount) + ", Сумма бонусов: " + bonus + ", Итого: "
                     + (clientAccount + amount + bonus));
-
-
         }
 
 
